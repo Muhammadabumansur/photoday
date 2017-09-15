@@ -135,9 +135,11 @@ body {
     margin-right: 2%;
   }
   .photos__item:nth-of-type(5),
+  .photos__item:nth-of-type(7),
   .photos__item:nth-of-type(11),
   .photos__item:nth-of-type(15),
   .photos__item:nth-of-type(19),
+  .photos__item:nth-of-type(23),
   .photos__item:nth-of-type(27) {
     margin-right: 2%;
   }
